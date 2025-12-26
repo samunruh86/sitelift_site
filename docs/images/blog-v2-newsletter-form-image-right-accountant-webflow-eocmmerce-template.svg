@@ -1,0 +1,50 @@
+<svg width="454" height="408" viewBox="0 0 454 408" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_7852_15305)">
+<g opacity="0.08">
+<mask id="mask0_7852_15305" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="222" width="229" height="233">
+<rect x="2.5" y="2.5" width="227.628" height="223" transform="matrix(-4.37114e-08 1 1 4.37114e-08 0.5 222.312)" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+</mask>
+<g mask="url(#mask0_7852_15305)">
+<rect width="279.484" height="5" transform="matrix(1 -8.87287e-10 8.69633e-10 -1 -21.5645 280.345)" fill="white"/>
+<rect width="279.484" height="5" transform="matrix(1 -8.87287e-10 8.69633e-10 -1 -21.5645 340.378)" fill="white"/>
+<rect width="279.484" height="5" transform="matrix(1 -8.87287e-10 8.69633e-10 -1 -21.5645 394.905)" fill="white"/>
+</g>
+<mask id="mask1_7852_15305" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-3" width="230" height="234">
+<rect x="2.5" y="2.5" width="228" height="224" transform="matrix(-4.37114e-08 1 1 4.37114e-08 0.5 -2.81323)" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+</mask>
+<g mask="url(#mask1_7852_15305)">
+<rect width="285.157" height="5" transform="matrix(0.707107 0.707107 0.707107 -0.707107 -47.4707 -125.079)" fill="white"/>
+<rect width="285.157" height="5" transform="matrix(0.707107 0.707107 0.707107 -0.707107 -89.9297 -82.6316)" fill="white"/>
+<rect width="285.157" height="5" transform="matrix(0.707107 0.707107 0.707107 -0.707107 -127.07 -45.4773)" fill="white"/>
+<rect width="418.791" height="5" transform="matrix(0.691947 -0.721949 -0.721949 -0.691947 -14.4492 252.708)" fill="white"/>
+<rect width="359.236" height="5" transform="matrix(0.691947 -0.721949 -0.721949 -0.691947 70.3086 251.007)" fill="white"/>
+<rect width="338.346" height="5" transform="matrix(0.691947 -0.721949 -0.721949 -0.691947 108.24 287.372)" fill="white"/>
+</g>
+<rect x="2.5" y="2.5" width="228" height="225" transform="matrix(-4.37114e-08 1 1 4.37114e-08 0.5 -2.81335)" stroke="white" stroke-width="5"/>
+<rect x="2.5" y="2.5" width="225" height="225" transform="matrix(-4.37114e-08 1 1 4.37114e-08 0.5 225.187)" stroke="white" stroke-width="5"/>
+<rect x="2.5" y="2.5" width="228" height="228" transform="matrix(-4.37114e-08 1 1 4.37114e-08 225.5 222.187)" stroke="white" stroke-width="5"/>
+<rect x="2.5" y="2.5" width="225" height="228" transform="matrix(-4.37114e-08 1 1 4.37114e-08 225.5 -2.81335)" stroke="white" stroke-width="5"/>
+<mask id="mask2_7852_15305" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="225" y="225" width="234" height="231">
+<rect x="2.5" y="2.5" width="225" height="228" transform="matrix(-4.37114e-08 1 1 4.37114e-08 225.5 225.186)" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+</mask>
+<g mask="url(#mask2_7852_15305)">
+<rect x="-2.5" y="2.5" width="603" height="397" rx="198.5" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 453.5 225.186)" stroke="white" stroke-width="5"/>
+<rect x="-2.5" y="2.5" width="482.769" height="310.174" rx="155.087" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 393.221 274.839)" stroke="white" stroke-width="5"/>
+<rect x="-2.5" y="2.5" width="362.702" height="212.62" rx="106.31" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 348.195 334.872)" stroke="white" stroke-width="5"/>
+</g>
+<mask id="mask3_7852_15305" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="228" y="-3" width="230" height="229">
+<rect x="-2.5" y="-2.5" width="223" height="224" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 452.5 220.187)" fill="#D9D9D9" stroke="black" stroke-width="5"/>
+</mask>
+<g mask="url(#mask3_7852_15305)">
+<rect x="2.5" y="-2.5" width="636.448" height="400.223" rx="200.112" transform="matrix(1 8.51322e-08 8.984e-08 -1 212.805 224.816)" stroke="white" stroke-width="5"/>
+<rect x="2.5" y="-2.5" width="509.742" height="310.174" rx="155.087" transform="matrix(1 8.51322e-08 8.984e-08 -1 268.238 172.288)" stroke="white" stroke-width="5"/>
+<rect x="2.5" y="-2.5" width="383.036" height="212.62" rx="106.31" transform="matrix(1 8.51322e-08 8.984e-08 -1 323.672 112.255)" stroke="white" stroke-width="5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_7852_15305">
+<rect width="454" height="408" fill="white"/>
+</clipPath>
+</defs>
+</svg>

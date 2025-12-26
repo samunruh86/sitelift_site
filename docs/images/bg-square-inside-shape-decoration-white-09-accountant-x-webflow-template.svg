@@ -1,0 +1,50 @@
+<svg width="506" height="510" viewBox="0 0 506 510" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_7663_10153)">
+<g opacity="0.08">
+<mask id="mask0_7663_10153" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-4" y="256" width="260" height="255">
+<rect x="2.78373" y="-2.78373" width="253.462" height="248.308" transform="matrix(1 0 0 -1 -3.32422 504.459)" fill="#D9D9D9" stroke="black" stroke-width="5.56745"/>
+</mask>
+<g mask="url(#mask0_7663_10153)">
+<rect width="311.203" height="5.56745" transform="matrix(-4.45987e-08 -1 -1 4.28418e-08 61.2949 534.595)" fill="white"/>
+<rect width="311.203" height="5.56745" transform="matrix(-4.45987e-08 -1 -1 4.28418e-08 128.141 534.595)" fill="white"/>
+<rect width="311.203" height="5.56745" transform="matrix(-4.45987e-08 -1 -1 4.28418e-08 188.857 534.595)" fill="white"/>
+</g>
+<mask id="mask1_7663_10153" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="247" y="0" width="260" height="260">
+<rect x="2.78373" y="2.78373" width="253.462" height="253.462" transform="matrix(-4.37114e-08 1 1 4.37114e-08 247.072 0.416016)" fill="#D9D9D9" stroke="black" stroke-width="5.56745"/>
+</mask>
+<g mask="url(#mask1_7663_10153)">
+<rect width="279.486" height="5.56745" transform="matrix(1 0 0 -1 222.576 73.4912)" fill="white"/>
+<rect width="317.52" height="5.56745" transform="matrix(-4.37114e-08 1 1 4.37114e-08 426.996 117.305)" fill="white"/>
+<rect width="279.486" height="5.56745" transform="matrix(1 0 0 -1 222.576 122.484)" fill="white"/>
+<rect width="317.52" height="5.56745" transform="matrix(-4.37114e-08 1 1 4.37114e-08 368.506 117.305)" fill="white"/>
+<rect width="317.52" height="5.56745" transform="matrix(-4.37114e-08 1 1 4.37114e-08 314.193 117.305)" fill="white"/>
+</g>
+<mask id="mask2_7663_10153" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-254" y="255" width="260" height="256">
+<rect x="2.78373" y="-2.78373" width="253.876" height="249.422" transform="matrix(1 0 0 -1 -254 504.459)" fill="#D9D9D9" stroke="black" stroke-width="5.56745"/>
+</mask>
+<g mask="url(#mask2_7663_10153)">
+<rect width="466.319" height="5.56745" transform="matrix(-0.721949 -0.691947 -0.691947 0.721949 30.5195 526.672)" fill="white"/>
+<rect width="400.006" height="5.56745" transform="matrix(-0.721949 -0.691947 -0.691947 0.721949 28.627 432.295)" fill="white"/>
+<rect width="376.745" height="5.56745" transform="matrix(-0.721949 -0.691947 -0.691947 0.721949 69.1191 390.059)" fill="white"/>
+</g>
+<rect x="2.78373" y="-2.78373" width="253.876" height="250.535" transform="matrix(1 0 0 -1 -254 504.459)" stroke="white" stroke-width="5.56745"/>
+<rect x="2.78373" y="-2.78373" width="250.535" height="250.535" transform="matrix(1 0 0 -1 -0.123047 504.459)" stroke="white" stroke-width="5.56745"/>
+<rect x="2.78373" y="-2.78373" width="247.195" height="253.876" transform="matrix(1 0 0 -1 250.412 253.876)" stroke="white" stroke-width="5.56745"/>
+<rect x="2.78373" y="-2.78373" width="253.876" height="253.876" transform="matrix(1 0 0 -1 -3.46484 253.924)" stroke="white" stroke-width="5.56745"/>
+<rect x="2.78373" y="-2.78373" width="250.535" height="253.876" transform="matrix(1 0 0 -1 -254 253.924)" stroke="white" stroke-width="5.56745"/>
+<mask id="mask3_7663_10153" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="0" width="257" height="260">
+<rect x="2.78373" y="-2.78373" width="250.535" height="253.876" transform="matrix(1 0 0 -1 -0.125 253.924)" fill="#D9D9D9" stroke="black" stroke-width="5.56745"/>
+</mask>
+<g mask="url(#mask3_7663_10153)">
+<rect x="2.78373" y="2.78373" width="671.435" height="442.056" rx="221.028" transform="matrix(-4.37114e-08 1 1 4.37114e-08 -0.125 0.0478517)" stroke="white" stroke-width="5.56745"/>
+<rect x="2.78373" y="2.78373" width="537.558" height="345.375" rx="172.688" transform="matrix(-4.37114e-08 1 1 4.37114e-08 55.1641 67.168)" stroke="white" stroke-width="5.56745"/>
+<rect x="2.78373" y="2.78373" width="403.866" height="236.75" rx="118.375" transform="matrix(-4.37114e-08 1 1 4.37114e-08 122.01 117.303)" stroke="white" stroke-width="5.56745"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_7663_10153">
+<rect width="506" height="510" fill="white"/>
+</clipPath>
+</defs>
+</svg>
