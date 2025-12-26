@@ -1,0 +1,33 @@
+<svg width="238" height="304" viewBox="0 0 238 304" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_7504_14196)">
+<mask id="mask0_7504_14196" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1053" y="0" width="1291" height="304">
+<rect x="-1053" width="1291" height="304" fill="#006D4B"/>
+</mask>
+<g mask="url(#mask0_7504_14196)">
+<mask id="mask1_7504_14196" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="228" width="239" height="243">
+<rect x="1.5" y="1.5" width="238.419" height="236" transform="matrix(-4.37114e-08 1 1 4.37114e-08 1 228.965)" fill="#2B7A4A" stroke="black" stroke-width="3"/>
+</mask>
+<g mask="url(#mask1_7504_14196)">
+<rect width="292.968" height="3" transform="matrix(1 -4.42384e-10 4.3795e-10 -1 -22 285.332)" fill="#006D4B"/>
+</g>
+<mask id="mask2_7504_14196" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="-5" width="241" height="238">
+<rect x="1.5" y="1.5" width="234" height="238" transform="matrix(-4.37114e-08 1 1 4.37114e-08 1 -4.66797)" fill="#2B7A4A" stroke="black" stroke-width="3"/>
+</mask>
+<g mask="url(#mask2_7504_14196)">
+<rect width="295.933" height="3" transform="matrix(0.707107 0.707107 0.707107 -0.707107 -48.7812 -131.553)" fill="#006D4B"/>
+<rect width="295.933" height="3" transform="matrix(0.707107 0.707107 0.707107 -0.707107 -92.8477 -87.502)" fill="#006D4B"/>
+<rect width="295.933" height="3" transform="matrix(0.707107 0.707107 0.707107 -0.707107 -131.391 -48.9414)" fill="#006D4B"/>
+<rect width="434.616" height="3" transform="matrix(0.691947 -0.721949 -0.721949 -0.691947 -14.5156 260.512)" fill="#006D4B"/>
+<rect width="372.811" height="3" transform="matrix(0.691947 -0.721949 -0.721949 -0.691947 73.4453 258.746)" fill="#006D4B"/>
+<rect width="351.132" height="3" transform="matrix(0.691947 -0.721949 -0.721949 -0.691947 112.812 296.484)" fill="#006D4B"/>
+</g>
+<rect x="1.5" y="1.5" width="234" height="238" transform="matrix(-4.37114e-08 1 1 4.37114e-08 1 -4.66797)" stroke="#006D4B" stroke-width="3"/>
+<rect x="1.5" y="1.5" width="238" height="238" transform="matrix(-4.37114e-08 1 1 4.37114e-08 1 229.332)" stroke="#006D4B" stroke-width="3"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_7504_14196">
+<rect width="238" height="304" fill="white"/>
+</clipPath>
+</defs>
+</svg>

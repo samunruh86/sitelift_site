@@ -1,0 +1,44 @@
+<svg width="193" height="99" viewBox="0 0 193 99" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_7801_17771)">
+<g opacity="0.08">
+<mask id="mask0_7801_17771" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="94" y="0" width="100" height="100">
+<rect x="95.5442" y="1.40846" width="96.6764" height="96.6764" fill="#D9D9D9" stroke="black" stroke-width="2.12356"/>
+</mask>
+<g mask="url(#mask0_7801_17771)">
+<rect x="230.184" y="-61.1416" width="121.11" height="2.12356" transform="rotate(135 230.184 -61.1416)" fill="white"/>
+<rect x="248.211" y="-43.1152" width="145.747" height="2.12356" transform="rotate(135 248.211 -43.1152)" fill="white"/>
+<rect x="263.984" y="-27.335" width="168.517" height="2.12356" transform="rotate(135 263.984 -27.335)" fill="white"/>
+<rect x="286.014" y="-16.5225" width="168.517" height="2.12356" transform="rotate(135 286.014 -16.5225)" fill="white"/>
+<rect x="119.98" y="-9.21509" width="121.11" height="2.12356" transform="rotate(90 119.98 -9.21509)" fill="white"/>
+<rect x="145.477" y="-9.21484" width="121.11" height="2.12356" transform="rotate(90 145.477 -9.21484)" fill="white"/>
+</g>
+<mask id="mask1_7801_17771" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-2" y="0" width="100" height="100">
+<rect x="-0.174548" y="98.0478" width="96.6764" height="96.6764" transform="rotate(-90 -0.174548 98.0478)" fill="#D9D9D9" stroke="black" stroke-width="2.12356"/>
+</mask>
+<g mask="url(#mask1_7801_17771)">
+<rect x="-10.5801" y="71.2366" width="106.603" height="2.12356" fill="white"/>
+<rect x="67.3906" y="54.5256" width="121.11" height="2.12356" transform="rotate(-90 67.3906 54.5256)" fill="white"/>
+<rect x="-10.5801" y="52.55" width="106.603" height="2.12356" fill="white"/>
+<rect x="45.082" y="54.5256" width="121.11" height="2.12356" transform="rotate(-90 45.082 54.5256)" fill="white"/>
+<rect x="24.3652" y="54.5256" width="121.11" height="2.12356" transform="rotate(-90 24.3652 54.5256)" fill="white"/>
+</g>
+<rect x="-94.4617" y="-94.2058" width="95.5602" height="95.5602" stroke="white" stroke-width="2.12356"/>
+<rect x="95.5442" y="1.40773" width="96.6764" height="96.6764" stroke="white" stroke-width="2.12356"/>
+<rect x="1.09889" y="1.37233" width="94.2861" height="96.8343" stroke="white" stroke-width="2.12356"/>
+<rect x="-95.7351" y="1.35475" width="96.8343" height="96.8343" stroke="white" stroke-width="2.12356"/>
+<mask id="mask2_7801_17771" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-96" y="0" width="99" height="100">
+<rect x="-94.4617" y="1.35475" width="95.5602" height="96.8343" fill="#D9D9D9" stroke="black" stroke-width="2.12356"/>
+</mask>
+<g mask="url(#mask2_7801_17771)">
+<rect x="-94.4617" y="98.1882" width="256.101" height="168.611" rx="84.3054" transform="rotate(-90 -94.4617 98.1882)" stroke="white" stroke-width="2.12356"/>
+<rect x="-73.3738" y="72.5867" width="205.038" height="131.734" rx="65.8672" transform="rotate(-90 -73.3738 72.5867)" stroke="white" stroke-width="2.12356"/>
+<rect x="-47.8777" y="53.4636" width="154.044" height="90.3022" rx="45.1511" transform="rotate(-90 -47.8777 53.4636)" stroke="white" stroke-width="2.12356"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_7801_17771">
+<rect width="193" height="99" fill="white"/>
+</clipPath>
+</defs>
+</svg>
