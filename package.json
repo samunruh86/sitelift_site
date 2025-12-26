@@ -1,0 +1,7 @@
+{
+  "name": "sitelift-site",
+  "private": true,
+  "scripts": {
+    "validate:base": "node scripts/validate-base.js"
+  }
+}
