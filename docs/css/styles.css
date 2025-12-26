@@ -1144,7 +1144,7 @@ blockquote {
   background-color: var(--core--colors--primary--200);
   color: var(--core--colors--neutral--100);
   text-align: center;
-  background-image: url("../images/bg-shape-quote-accountant-x-webflow-template.svg");
+  background-image: url("../media/svgs/bg-quote.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
